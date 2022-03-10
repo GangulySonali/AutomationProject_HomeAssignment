@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63818" started-at="2022-03-10T02:20:10Z" finished-at="2022-03-10T02:21:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63818" started-at="2022-03-10T02:20:10Z" finished-at="2022-03-10T02:21:14Z">
+      <class name="com.aircanada.testCases.SearchFlightTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.aircanada.testCases.SearchFlightTest@3d299e3]" name="setUp" is-config="true" duration-ms="15710" started-at="2022-03-09T18:20:10Z" finished-at="2022-03-09T18:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="book_flight_roundTrip()[pri:0, instance:com.aircanada.testCases.SearchFlightTest@3d299e3]" name="book_flight_roundTrip" duration-ms="47152" started-at="2022-03-09T18:20:26Z" finished-at="2022-03-09T18:21:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_flight_roundTrip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.aircanada.testCases.SearchFlightTest@3d299e3]" name="tearDown" is-config="true" duration-ms="946" started-at="2022-03-09T18:21:13Z" finished-at="2022-03-09T18:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aircanada.testCases.SearchFlightTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
